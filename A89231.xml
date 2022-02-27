@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two letters from Mr. Mountagu to the Ld Treasurer one of the 11th, the other of the 18th of Jan. 1677/8 which were read in the House of Commons. Together with the Lord Treasurer's speech in the House of Peers, upon an impeachment of high treason, &amp;c. brought up against his Lordship by the House of Commons, Decem. 23. 1678.</title>
+            <author>Montagu, Ralph Montagu, Duke of, 1638?-1709.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89231</idno>
+            <idno type="STC">Wing M2468</idno>
+            <idno type="STC">ESTC R232285</idno>
+            <idno type="EEBO-CITATION">99896488</idno>
+            <idno type="PROQUEST">99896488</idno>
+            <idno type="VID">154290</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89231)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154290)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2409:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two letters from Mr. Mountagu to the Ld Treasurer one of the 11th, the other of the 18th of Jan. 1677/8 which were read in the House of Commons. Together with the Lord Treasurer's speech in the House of Peers, upon an impeachment of high treason, &amp;c. brought up against his Lordship by the House of Commons, Decem. 23. 1678.</title>
+                  <author>Montagu, Ralph Montagu, Duke of, 1638?-1709.</author>
+                  <author>Leeds, Thomas Osborne, Duke of, 1631-1712.</author>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed, and are to be sold by Jonathan Edwin, at the Three Roses in Ludgate-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In this edition, line 4 of title reads "Mr. Mountagu"; in another edition, line 4 reads "Mr. Montagu".</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Leeds, Thomas Osborne, --  Duke of, 1631-1712 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Restoration, 1660-1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154290:1"/>
+            <p>TWO LETTERS FROM Mr. <hi>MO<g ref="char:V">Ʋ</g>NTAG<g ref="char:V">Ʋ</g>
+               </hi> To the L<hi rend="sup">d</hi> Treaſurer; One of the 11<hi rend="sup">th</hi>, the other of the 18<hi rend="sup">th</hi> of <hi>Jan.</hi> 1677/8 Which were read in the HOUSE of COMMONS.</p>
+            <p>Together with the Lord Treaſurer's SPEECH in the HOUSE OF PEERS, upon an Impeachment of High Treaſon, &amp;c. brought up againſt his Lordſhip by the <hi>Houſe of Commons, Decem.</hi> 23. 1678.</p>
+            <p>
+               <hi>LONDON,</hi> Printed, and are to be ſold by <hi>Jonathan Edwin,</hi> at the <hi>Three Roſes</hi> in <hi>Ludgate-ſtreet.</hi> 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:154290:2"/>
+            <pb n="3" facs="tcp:154290:2"/>
+            <head>Mr. <hi>MO<g ref="char:V">Ʋ</g>NTAG<g ref="char:V">Ʋ</g>
+               </hi>'s FIRST LETTER.</head>
+            <head>
+               <hi>Paris. Jan.</hi> 11. 1677/8.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Have not had the Honour of any from your Lordſhip, in Anſwer to all thoſe, wherein I gave you the beſt account I could of matters here, by the Expreſs I ſent. Nor indeed could I expect his Majeſty could take any ſudden reſolution in matters of ſo great moment.</p>
+            <p>The occaſion of my giving you this trouble, is, to give you the beſt light I can into the reaſon of Mr. <hi>de Rouvigny</hi>'s Sons Journey into <hi>England,</hi> who will be there perhaps as ſoon as this Letter. If his Father's age would have permitted it, I believe they would have ſent him; ſo they have choſen the Son, who is to make uſe of Lights his Father will give him, and by the near relation he hath to my Lady <hi>Vaughan,</hi> who is his Cou<g ref="char:EOLhyphen"/>ſin-German, and the particular Friendſhip which Fa<g ref="char:EOLhyphen"/>ther
+<pb n="4" facs="tcp:154290:3"/>and Son have with Mr. <hi>William Ruſſel,</hi> he is to be introduced into a great commerce with the Malecon<g ref="char:EOLhyphen"/>tented Members of Parliament, and inſinuate what they ſhall think fit to croſs your Meaſures at Court, if they ſhall prove diſagreeable here: Whilſt Mr. <hi>Barillon</hi> goes on in his ſmooth civil way.</p>
+            <p>I thought it my duty to his Majeſty, to give your Lordſhip this account, though I have not explained this matter ſo much in my Letter to the Secretary; wherefore I hope you will let this be ſeen by none but his Majeſty. What I know farther of this, or any thing elſe, you ſhall always be acquainted with. They are here in great pain, till it be known what will become of the Parliament, and do not ſtick to ſay, If that be put off for a month, they doubt not of a Peace. I am with all reſpect,</p>
+            <closer>
+               <salute>My Lord,</salute>
+               <signed>Your Lordſhip's Moſt obedient and humble Servant, R. Montagu.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="5" facs="tcp:154290:3"/>
+            <head>Mr. <hi>MO<g ref="char:V">Ʋ</g>NTAG<g ref="char:V">Ʋ</g>'S.</hi> SECOND LETTER.</head>
+            <head type="sub">
+               <hi>Paris. Jan.</hi> 18. 1677/8</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>SInce I ſealed up my Letter, by my Lord <hi>Dunblane,</hi> I have had one with me that is very exactly, as can be, inform'd of moſt things here, and hath told me the reaſon of <hi>Rouvigny's</hi> Journey.</p>
+            <p>His chief Errand is, to let the King know, that the King of <hi>France</hi> did hope he was ſo firm to him, as not to be led away by the Grand Treaſurer; who was an ambitious man, and, to keep himſelf well with the people, would gratifie their inclinations by leading his Maſter unto an unreaſonable War againſt <hi>France.</hi> That as for money, if he wanted it, he ſhould have what he would from hence.</p>
+            <p>His inſtructions are, if this does not take, by the means of Wiſt. <hi>Ruſſel,</hi> and other diſcontented people, to give a great deal of money, and croſs all your mea<g ref="char:EOLhyphen"/>ſures at Court.</p>
+            <p>When he gives you his Fathers Letter of Recom<g ref="char:EOLhyphen"/>mendation
+<pb n="6" facs="tcp:154290:4"/>mendation, you cannot chuſe but be very kind to him, ſince the chief part of his journey is to do you ſo good offices. My Lord, if I might be worthy to give my adviſe, who ſee things upon the place, there could be nothing better done, then after he hath been two days in <hi>England,</hi> for the King to give you order to tell Mon<g ref="char:EOLhyphen"/>ſieur <hi>Barillon,</hi> that he knows <hi>Rouvigny</hi> hath a Relation and Commerce with people ill affected to the Govern<g ref="char:EOLhyphen"/>ment; and would be therefore glad to have him retire. You cannot imagine how it would damp them here, when they ſhall ſee their little tricks do not paſs upon us.</p>
+            <p>And old <hi>Rouvigny,</hi> that values himſelf upon knowing <hi>England,</hi> and having ſaved ſo much money as he had (by what I told you formerly) order to give, hath given it them for a Maxim, That they muſt diminiſh your Credit, before they can do any good in <hi>England.</hi> But ſince their chief quarrel to you is, the being ſo true to your Maſters Intereſt, I am ſure he is too juſt to let them do you any hurt.</p>
+            <p>If the King is for a War, you know what to do; if he hearkens to their money, be pleaſed to let me know what they offer, and I dare anſwer, to get our Maſter as much again; for <hi>Barillon's</hi> orders are to make the mar<g ref="char:EOLhyphen"/>ket as low as he can. I am, <hi>&amp;c.</hi>
+            </p>
+            <closer>
+               <signed>R. Mountagu.</signed>
+            </closer>
+         </div>
+         <div type="speech">
+            <pb n="7" facs="tcp:154290:4"/>
+            <head>THE LORD TREASURERS SPEECH</head>
+            <head type="sub">In the Houſe of PEERS, upon an Impeachment of High-Treaſon, <hi>&amp;c.</hi> brought up againſt his Lordſhip by the Houſe of Commons. <hi>Decem.</hi> 23. 1678.</head>
+            <opener>
+               <salute>My Lords,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Hope you will not enter upon any o<g ref="char:EOLhyphen"/>ther buſineſs before you have given that liberty to me, which is the pri<g ref="char:EOLhyphen"/>viledg of every Peer, to be heard upon any accuſation that is brought againſt him, though of far leſs moment than what hath been newly read againſt my ſelf.</p>
+            <p>I confeſs I ſhould have heard this charge with hor<g ref="char:EOLhyphen"/>rour, if the matter of it had been true; but I thank God, I know my innocency to be ſo great, that it pro<g ref="char:EOLhyphen"/>tects me from all ſort of fear, but that of lying under ſo black a Character; as may be believed by thoſe that cannot hear my deſence; though I have the confidence to think that it is not truly believed in the hearts of the greateſt part of thoſe that have been informed againſt me.</p>
+            <pb n="8" facs="tcp:154290:5"/>
+            <p>I muſt needs confeſs that I thought my ſelf the laſt man in this Kingdom that ſhould ever have been in dan<g ref="char:EOLhyphen"/>ger of being accuſed for Treaſon, becauſe I know no man that abhors it more, and that would purſue it more vigorouſly than my ſelf, againſt any that ſhould be guilty of it. Nay to ſuch a degree is my Deteſtation of that Crime, that were I ſure the deareſt Child I have were guilty of it, I would willingly be his Exe<g ref="char:EOLhyphen"/>cutioner.</p>
+            <p>My Lords, I know this is not the time for me to en<g ref="char:EOLhyphen"/>ter regularly upon my defence, becauſe I know your Lordſhips will firſt order me a Copy of my Charge, and appoint me a time for my Vindication; when I doubt not but to do it to the full ſatisfaction of your Lordſhips and of all the World. In the mean time I will only beg leave to obſerve to your Lordſhips, that thoſe Articles in this Charge which can ſeem to have any thing of Treaſon in them, have their Anſwer ſo obvi<g ref="char:EOLhyphen"/>ous, that there is very little in them which may not be anſwered by many others as well as my ſelf, and ſome of them by every man in the Kingdom.</p>
+            <p>The firſt, which is the aſſuming Regal Power, I con<g ref="char:EOLhyphen"/>feſs I do not underſtand; having never in my life done any thing of great moment, either at home, or re<g ref="char:EOLhyphen"/>lating to Foreign matters, for which I have not always had His Majeſties Command. And although I am far from having been the moſt cautious man in taking care for my own ſecurity, (which perhaps my great inno<g ref="char:EOLhyphen"/>cence hath been the cauſe of) yet I have not been ſo wanting of common prudence, as in the moſt material Things not to have had His Majeſties Orders and Di<g ref="char:EOLhyphen"/>rections under His own Hand, and particularly for the Letters now made uſe of againſt me.</p>
+            <p>The ſecond I think doth ſcarce need my giving any
+<pb n="9" facs="tcp:154290:5"/>anſwer to; it being obvious, that the Army was no more raiſed by me, than by every Lord in this Houſe: And who-ever is in that Station which I hold, muſt certainly be a Fool, to deſire any thing which creates a want of Money, eſpecially ſo great an one, as the Charge of an Army muſt neceſſarily and immediately produce. And for one part of the Article concerning the Pay-Maſter of the Army, it is in fact otherwiſe; for ſecurity from the Pay-Maſter has been taken in the ſum of four hundred thouſand pounds.</p>
+            <p>The third is of the ſame nature with the firſt, and comes from the ſame foundation, which is, What a Gentleman hath thought fit to produce to the Houſe of Commons. I will not now cenſure his action, I think it will do enough for its ſelf; I will onely ſay, That although I take it for one of the greateſt misfor<g ref="char:EOLhyphen"/>tunes which can befall a man, to lieunder ſuch a Charge of the Houſe of Commons, yet I would much ſooner chooſe to be under that unhappineſs, than under his Circumſtances.</p>
+            <p>The fourth Article is not onely falſe in every part of it, but it is not poſſible to believe it true, without my being the greateſt Fool on Earth, as well as the blackeſt Villain. For were I capable of ſuch a wickedneſs, yet the more wicked any man is, the more he is carried to his own intereſt; and is it poſſible any thing under Heaven can agree leſs with my Intereſt, than the de<g ref="char:EOLhyphen"/>ſtruction of this King? Can I poſſibly hope to be better than I am? and is it not apparent, that there is not one man living, whoſe happineſs depends ſo much as mine upon the preſervation of his Perſon?</p>
+            <p>My Lords, I know there is not a man in the world, that can in his heart think me guilty of that part of the Article, if I ſhould ſay nothing to it. But beſides, I
+<pb n="10" facs="tcp:154290:6"/>was ſo far from concealing this helliſh Plot, that it is no<g ref="char:EOLhyphen"/>toriouſly known, His Majeſty ſent me the firſt notice of it, together with Forty three Heads of the Information, before I knew a ſyllable of it from any body elſe: And it hath been own'd at the Bar of the Houſe of Commons by him, (from whom onely I had the Intelligence) that he had all the encouragement and diſpatch from me that I could give him. Beſides, when it was diſcloſed to the Council-board, he told ſome of the Clerks of the Council, (as he had done me divers times before) that it would have been much better, and more would have been diſcovered, if it had been longer kept private. Beſides this, I had the fortune to be particu<g ref="char:EOLhyphen"/>larly inſtrumental in ſeiſing Mr. <hi>Coleman</hi>'s Papers, with<g ref="char:EOLhyphen"/>out which care, there had not one of them appear'd, and conſequently, the beſt and moſt material Evidence which is yet of the Plot, had been wholly wanting. And certainly this is the firſt time that any man was accuſed to be the Concealer of that Plot, whereof he hath been a principal means of procuring the diſcovery.</p>
+            <p>For that part of the Article that ſays, I am Popiſhly affected, I thank God, that the contrary is ſo known to all the world, that even ſome of thoſe that Voted againſt me, did own their knowledge of the falſity of that Allegation; and I hope I have through my whole life given ſo good teſtimony of my Religion, both in my own Family, and by my Services to the Church, (when-ever it hath lain in my power) that I ſhall not need much vindication in that particular: and I hope your Lordſhips will forgive me my weakneſs, in telling you, that I have a younger Son in the Houſe of Com<g ref="char:EOLhyphen"/>mons, whom I ſhall love the better ſo long as I live, for moving to have that part of the Article to ſtand againſt me, that by that pattern it might appear, with what
+<pb n="11" facs="tcp:154290:6"/>ſort of zeal the whole hath been carried to my prejudice.</p>
+            <p>The fifth Article will, upon examination, appear to be as ill-grounded as any of the reſt; and I am ſorry I am able to give one reaſon, which is, that I have known no Treaſure in my time to waſte, having entred upon an empty Treaſury, and never ſeen one farthing given to His Majeſty (in almoſt ſix years) that hath not been appropriated to particular uſes, and ſtrictly ſo applied by me, as the Acts have directed. And there hath not been one of thoſe Aids which, in ſtead of giving the King Money, hath not coſt him more out of his own Purſe, to the ſame uſes, as doth appear by the larger dimenſions of the new Ships, and ſo in other things: inſomuch that I take upon me the vanity to ſay, That by the Payments I have made to the Navy and Sea<g ref="char:EOLhyphen"/>men, beyond former times; the paying off the greateſt part of the Debt which was ſtopt in the Exchequer be<g ref="char:EOLhyphen"/>fore my time; by my own punctuality in the courſe of Payments, and by other things which I am able to ſhew, I doubt not but to appear Meritorious inſtead of being Criminal upon that Article.</p>
+            <p>As to the ſixth Article, which mentions my great Gettings, I cannot deny, but that I ſerve a Maſter, whoſe Goodneſs and Bounty hath been a great deal more to me than I have deſerved, and to whom I can never pay Gratitude enough by all the Services of my life. But when the particulars of thoſe Gettings ſhall appear, it will be found very contrary to what is ſugge<g ref="char:EOLhyphen"/>ſted abroad; and that in near ſix years time in this Great Place, I have not got half that, which many others have got in leſſer Places in half that time. And from the examination of this, which I deſire may be ſeen, there will ariſe matter to accuſe my prudence, in not having done for my Family what juſtly I might,
+<pb n="12" facs="tcp:154290:7"/>but nothing to arraign either my Honour, my Con<g ref="char:EOLhyphen"/>ſcience, or my faithful Service to the Crown.</p>
+            <p>My Lords, if my obedience to the King ſhall not be my crime, I think nothing elſe will ſtick upon me from theſe Articles: For my own heart flatters me to believe that I have done nothing but as a true Proteſtant, and a faithful ſervant both to my King and Countrey. Nay I am as Confident, as that now I ſpeak, that had I either been a Papiſt or Friend to the <hi>French,</hi> I had not been now accuſed. For I have reaſon to believe that the principal Informer of the Houſe of Commons hath been aſſiſted by <hi>French</hi> advice to this accuſation; and if the Gentleman were as juſt to produce all he knows for me, as he hath been malicious to ſhew what may be lyable to miſconſtruction againſt me, or rather againſt the King (as indeed it is) no man could Vindicate me more than himſelf. Under whoſe hand I have to ſhew, how great an Enemy to <hi>France</hi> I am thought, how much I might have had to have been otherwiſe, and what he himſelf might have had for getting me to take it. But I do not wonder this Gentleman will do me no right, when he does not think fit to do it to his Ma<g ref="char:EOLhyphen"/>jeſty (upon whom chiefly this matter muſt reflect.) Although he knows, as will appear under his hand, that the greateſt invitations to his Majeſty for having money from <hi>France,</hi> have been made by himſelf; that if his Majeſty would have been tempted for money, he might have ſold Towns for as much as if they had been his own, and the money have been conveyed as privately as he pleaſed: That his Majeſty might have made matches with <hi>France</hi> if he would have conſented to give them Towns; and yet, that the King hath always ſcorn<g ref="char:EOLhyphen"/>ed to yield the meaneſt Village, that was not agreed to by the <hi>Spaniard</hi> and <hi>Hollander.</hi> That Gentleman hath
+<pb n="13" facs="tcp:154290:7"/>often pretended how much his own intereſt in <hi>France</hi> was diminiſhed, only by being thought my friend. And beſides diverſe other inſtances I have under his hand to ſhew the malice of the <hi>French</hi> Court againſt me, I ſent two of his Letters to the Houſe of Commons, which ſhew how Monſieur <hi>Ruvigny</hi> was ſent hither on purpoſe to ruine me; which I am well aſſured at this time they would rather ſee, than of any one man in <hi>England.</hi> Beſides what that Gentleman could ſay of this kind, (if he pleaſed) I hope his Majeſty will give me leave (in my defence) to ſay in his Preſence and in the hearing of diverſe Lords, with whom I have the Honour to ſit in the Committee of Foraign Affairs, that, which were it not true, his Majeſty muſt think me the impudenteſt and worſt of Men to affirm before him, That ever ſince I had the Honour to ſerve his Majeſty to this day, I have delivered it as my conſtant opinion, that <hi>France</hi> was the worſt Intereſt his Majeſty could embrace, and that they were the Nation in the World from whom I did believe, he ought to apprehend the greateſt danger: and who have both his Perſon and Government under the laſt degree of Contempt. For which Reaſon alone (were there no other) I would never adviſe his Majeſty to truſt to their friendſhip.</p>
+            <p>My Lords, tis my great happineſs, that your Lord<g ref="char:EOLhyphen"/>ſhips are my Judges: whoſe Wiſedom and Juſtice are ſo great, that you will both diſcern the truth of the Evidence when it ſhall come before you, and in the mean time diſtinguiſh truly, what the Crimes are (if they could be proved) and not what they are called. For this reaſon this Houſe hath Wiſely provided to have the ſpe<g ref="char:EOLhyphen"/>cial matter before them, to the end they may be ſatisfied whether the Charge have its right denomination; for otherwiſe it were to no purpoſe to deſire ſpecial matter,
+<pb n="14" facs="tcp:154290:8"/>unleſs it were to ſee whether the ſpecial matter alledged be what it is called. As for example, if a man were accuſed for having Traiterouſly paſſed the River in a pair of Oars, this is ſpecial matter, and ſtiled Treaſon by inſerting the word Traiterouſly; yet your Lordſhips would not therefore proceed as taking it for Treaſon. So in this caſe, I beg for all your Lordſhips ſakes as well as my own, that you will pleaſe to uſe that caution which will be neceſſary for all your Lordſhips ſafety and ſeats in this Houſe: For I beſeech your Lordſhips to conſider, whither ſuch a Preſident may go here<g ref="char:EOLhyphen"/>after? What the Houſe of Commons may do in ſuch a caſe, there is no Queſtion but his Majeſty may do the ſame by his Attorney; and what either of them may do againſt one Lord, they may do againſt more; (and we have ſeen it done in our days againſt all the Biſhops at once.) Were it not very precariouſly then, that your Lordſhips hold your ſeats here, when by either of theſe ways, as many of your Lordſhips as for a time it might be Convenient to remove, ſhould be at the mercy of having a thing called Treaſon, whether it be ſo or no.</p>
+            <p>Truly, my Lords, I have reaſon to believe that in the Houſe of Commons, the matter of my Charge (if proved) was not thought to amount to Treaſon either by Statue or Common Law; and I hope your Lordſhips have too ſad an Example in your memory, e<g ref="char:EOLhyphen"/>ver to aſſiſt the making of Treaſon by accumulation.</p>
+            <p>I ſhould therefore not only wrong my own inno<g ref="char:EOLhyphen"/>cence, but the right of the Peers, to ſubmit to anſwer matters of miſdemeanour, as a Criminal in Treaſon.</p>
+            <p>My Lords, I wonder not at the malicious proſecu<g ref="char:EOLhyphen"/>tion of thoſe who would have me taken for what they truly are. For I am well aſſured, that neither the
+<pb n="15" facs="tcp:154290:8" rendition="simple:additions"/>
+               <hi>French</hi> take me to be of their Intereſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> nor the Papiſts to be of their Religion: But I am troubled to fall un<g ref="char:EOLhyphen"/>der ſo ſevere a Cenſure of the Houſe of Commons, although I cannot blame them, but my accuſers who have ſo wrongfully informed them.</p>
+            <p>My Lords, I will conclude with this comfort, that I do not in the leaſt apprehend the matter of my Charge under the ſecurity of your Lordſhips Juſtice; and will therefore trouble your Lordſhips no longer at this time, but only to pray your Directions, whether I am to withdraw, which I ſhall readily obey.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:154290:9" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
